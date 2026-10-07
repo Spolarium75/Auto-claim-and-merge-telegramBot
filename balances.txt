@@ -1,0 +1,12 @@
+lappy33|30
+lappy34|30
+lappy35|30
+lappy36|30
+lappy37|30
+lappy38|30
+lappy39|30
+lappy40|30
+lappy41|30
+lappy42|30
+
+https://github.com/Spolarium75/Auto-claim-and-merge-telegramBot
